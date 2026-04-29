@@ -19,5 +19,5 @@ CSE-AI student trying to build ML-powered systems that actually do something use
 RAG • System Design • DSA
 
 ## Contact
-- LinkedIn: <https://www.linkedin.com/in/aishwarya-manoj-mc/>
-- Email: <aishwaryamanojmc@gmail.com>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aishwarya-manoj-mc/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:aishwaryamanojmc@gmail.com)

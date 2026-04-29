@@ -15,3 +15,9 @@ CSE-AI student trying to build ML-powered systems that actually do something use
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
+## Current Focus
+RAG • System Design • DSA
+
+## Contact
+- LinkedIn: <https://www.linkedin.com/in/aishwarya-manoj-mc/>
+- Email: <aishwaryamanojmc@gmail.com>
